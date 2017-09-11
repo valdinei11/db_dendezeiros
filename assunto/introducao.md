@@ -72,47 +72,8 @@ Trabalhe metodicamente pelas etapas do ciclo de vida e corrija erros de projeto 
 - o projeto lógico visa uma solução viável para satisfazer todas as consultas conhecidas e em potencial.
 - o projeto físico é para otimizar o desempenho para consultas e atualizações conhecidas e projetadas.
 
-# Exercícios
+# [Exercícios](https://github.com/tmenegaz/db_dendezeiros/blob/master/assunto/exercicios1.md#exercícios)
 
-1. Pesquise a fim de conhecer e determinar o que é banco de dados *hierárquico*, *rede*, *relacional*, *objeto-relacional* e *objeto*.
-
-2. O que é uma entidade na abordagem relacional?
-
-3. Dê exemplos de entidades.
-
-4. Classifique as entidades.
-
-5. O que é um atributo na abordagem relacional?
-
-6. Exemplifique atributos.
-
-7. O que é uma tupla na abordagem relacional?
-
-8. Qual a diferenção entre dado e informação?
-
-9. O que é SGBD?
-
-10. Apresente 3 exemplos de SGBD e suas principais características.
-
-11. Em TI por que é importante o descolamento ou desacoplamento?
-
-12. O que é independência de dados?
-
-13. O que é uma chave?
-
-14. Para que serve a linguagem SQL?
-
-15. O que é GRANT e REVOKE em DCL?  
-
-16. Qual a diferença entre sistema de banco de dados e sistema de gerenciados de banco de dados?
-
-17. Faça um diagrama que ilustre a resposta da questão 16.
-
-18. Por que a linguagem SQL não é considerada uma linguagem procedural?
-
-19. Como instalar um SGBD em um sistema operacional?
-
-20. O que é clustering?
 
 [Voltar ao topo (Conceitos)](#conceitos)
 
@@ -132,4 +93,9 @@ Trabalhe metodicamente pelas etapas do ciclo de vida e corrija erros de projeto 
 
 <a name="myfootnote8">8.</a> [TI](https://pt.wikipedia.org/wiki/Tecnologia_da_informa%C3%A7%C3%A3o)
 
-<a name="myfootnote9">9.</a> representa a dependência entre elementos de dados que são identificadores exclusivos (chaves).
+<a name="myfootnote9">9.</a> representa a dependência entre elementos de dados que são identificadores exclusivos.
+
+<a name="myfootnote10">10.</a> [IMS](https://www.ibm.com/support/knowledgecenter/pt-br/SSKM8N_7.0.0/com.ibm.etools.mft.doc/ac66140_.htm) 
+
+
+[Localize-se: lista das aulas](https://github.com/tmenegaz/db_dendezeiros/blob/master/assunto/lista.md#lista-de-aulas)
